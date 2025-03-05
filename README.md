@@ -12,3 +12,4 @@ The spreadsheet contains 8,242 entries, each representing a deceased inmate. It 
     ICD10 Second: ICD-10 code for the secondary cause of death, or “UNK”
 
 The deaths date from January 1, 2005 through August 9, 2024.
+Philip Schingle
